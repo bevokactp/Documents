@@ -1,0 +1,12 @@
+[
+	{
+	  "id": 1,
+	  "name": "Dynasty of the Stars",
+	  "species": ["Humans", "Aliens"]
+	},
+	{
+	  "id": 2,
+	  "name": "Ancient Order",
+	  "species": ["Dragons", "Elves"]
+	}
+  ]

@@ -1,0 +1,269 @@
+[
+	{
+		"key": "andromeda",
+		"names": [
+			"Андромеда",
+			"Прикованная Дева"
+		],
+		"description": "Андромеда — это созвездие на северном небе, названное в честь принцессы Андромеды из греческой мифологии.",
+		"stars_keys": [
+			"alpheratz",
+			"mirach",
+			"vega",
+			"alamak"
+		]
+	},
+	{
+		"key": "aquarius",
+		"names": [
+			"Водолей"
+		],
+		"description": "Водолей — это созвездие зодиака, символизирующее водоносца.",
+		"stars_keys": [
+			"sadalsuud",
+			"sadalmelik",
+			"sadaltager"
+		]
+	},
+	{
+		"key": "capricornus",
+		"names": [
+			"Козерог"
+		],
+		"description": "Козерог — это созвездие зодиака, символизирующее морского козла.",
+		"stars_keys": [
+			"denebalgedi",
+			"mizr",
+			"nashira"
+		]
+	},
+	{
+		"key": "cassiopeia",
+		"names": [
+			"Кассиопея",
+			"Королева"
+		],
+		"description": "Кассиопея — это заметное созвездие на северном небе, узнаваемое по своей W-образной форме.",
+		"stars_keys": [
+			"shedar",
+			"caph",
+			"tsih",
+			"ruchbah",
+			"segin"
+		]
+	},
+	{
+		"key": "gemini",
+		"names": [
+			"Близнецы"
+		],
+		"description": "Близнецы — это созвездие зодиака, символизирующее двух братьев.",
+		"stars_keys": [
+			"castor",
+			"pollux",
+			"alhena"
+		]
+	},
+	{
+		"key": "leo",
+		"names": [
+			"Лев"
+		],
+		"description": "Лев — это одно из созвездий зодиака, символизирующее льва.",
+		"stars_keys": [
+			"regulus",
+			"denebola",
+			"algie"
+		]
+	},
+	{
+		"key": "libra",
+		"names": [
+			"Весы"
+		],
+		"description": "Весы — это созвездие зодиака, символизирующее весы.",
+		"stars_keys": [
+			"zubenelgenubi",
+			"zubeneschamali",
+			"zubenelakrab"
+		]
+	},
+	{
+		"key": "orion",
+		"names": [
+			"Орион",
+			"Охотник"
+		],
+		"description": "Орион — это заметное созвездие, расположенное на небесном экваторе и видимое по всему миру.",
+		"stars_keys": [
+			"betelgeuse",
+			"rigel",
+			"bellatrix",
+			"saiph"
+		]
+	},
+	{
+		"key": "pisces",
+		"names": [
+			"Рыбы"
+		],
+		"description": "Рыбы — это созвездие зодиака, символизирующее две рыбы.",
+		"stars_keys": [
+			"alrescha",
+			"fomalhaut",
+			"sadalbari"
+		]
+	},
+	{
+		"key": "sagittarius",
+		"names": [
+			"Стрелец"
+		],
+		"description": "Стрелец — это созвездие зодиака, символизирующее стрелка с луком.",
+		"stars_keys": [
+			"kaus",
+			"rukh",
+			"tureis"
+		]
+	},
+	{
+		"key": "scorpius",
+		"names": [
+			"Скорпион"
+		],
+		"description": "Скорпион — это заметное созвездие на южном небе, представляющее скорпиона.",
+		"stars_keys": [
+			"antares",
+			"shaula",
+			"lesath",
+			"dschubba"
+		]
+	},
+	{
+		"key": "taurus",
+		"names": [
+			"Телец"
+		],
+		"description": "Телец — это одно из созвездий зодиака, символизирующее быка.",
+		"stars_keys": [
+			"aldebaran",
+			"elnath",
+			"hyades"
+		]
+	},
+	{
+		"key": "ursa_major",
+		"names": [
+			"Большая Медведица",
+			"Медведь"
+		],
+		"description": "Большая Медведица — это созвездие на северном небе, чья связанная мифология, вероятно, уходит корнями в доисторические времена.",
+		"stars_keys": [
+			"dubhe",
+			"merak",
+			"phecda",
+			"megrez",
+			"alioth",
+			"mizar",
+			"alkaid"
+		]
+	},
+	{
+		"key": "virgo",
+		"names": [
+			"Дева"
+		],
+		"description": "Дева — это одно из созвездий зодиака, символизирующее деву.",
+		"stars_keys": [
+			"spica",
+			"zavijava",
+			"porrima"
+		]
+	},
+	{
+		"key": "cygnus",
+		"names": [
+			"Лебедь"
+		],
+		"description": "Лебедь — это созвездие на северном небе, изображающее лебедя, которое пересекая Млечный Путь, можно увидеть в летние ночи.",
+		"stars_keys": [
+			"deneb",
+			"albireo",
+			"sadr",
+			"rit",
+			"zeta"
+		]
+	},
+	{
+		"key": "pegasus",
+		"names": [
+			"Пегас"
+		],
+		"description": "Пегас — это созвездие на северном небе, изображающее крылатого коня.",
+		"stars_keys": [
+			"markab",
+			"scheat",
+			"algenib"
+		]
+	},
+	{
+		"key": "lepus",
+		"names": [
+			"Заяц"
+		],
+		"description": "Заяц — это созвездие на южном небе, расположенное под созвездием Ориона.",
+		"stars_keys": [
+			"arneb",
+			"rigelkin",
+			"hind"
+		]
+	},
+	{
+		"key": "columba",
+		"names": [
+			"Голубь"
+		],
+		"description": "Голубь — это созвездие на южном небе, представляющее голубя, который изображён на небесах вместе с созвездием Лев.",
+		"stars_keys": [
+			"phact",
+			"wazn",
+			"acubens"
+		]
+	},
+	{
+		"key": "tucana",
+		"names": [
+			"Тукан"
+		],
+		"description": "Тукан — это созвездие на южном небе, изображающее экзотическую птицу.",
+		"stars_keys": []
+	},
+	{
+		"key": "crux",
+		"names": [
+			"Южный Крест"
+		],
+		"description": "Южный Крест — это небольшое созвездие на южном небе, представляющее крест.",
+		"stars_keys": [
+			"acrux",
+			"becrux",
+			"gacrux"
+		]
+	},
+	{
+		"key": "pavo",
+		"names": [
+			"Павлин"
+		],
+		"description": "Павлин — это созвездие на южном небе, изображающее павлина.",
+		"stars_keys": []
+	},
+	{
+		"key": "fornax",
+		"names": [
+			"Печь"
+		],
+		"description": "Печь — это небольшое созвездие на южном небе, представляющее печь для плавки металлов.",
+		"stars_keys": []
+	}
+]

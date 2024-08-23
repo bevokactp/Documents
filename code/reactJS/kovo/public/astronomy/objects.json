@@ -1,0 +1,301 @@
+[
+    {
+        "key": "sun",
+        "name": ["Солнце"],
+        "exists": true,
+        "type": "star",
+        "orbits": null,
+        "distance_km": null,
+        "year_length_days": null,
+        "day_length_hours": null,
+        "atmospheric_pressure": null,
+        "constellation": null,
+        "color": "blue",
+        "description": "",
+        "diametr": "1.39 million km",
+        "tilt": "7.25 degrees",
+        "number": 109
+    },
+    {
+        "key": "mercury",
+        "name": ["Меркурий"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 57900000,
+        "year_length_days": 88,
+        "day_length_hours": 1407.5,
+        "atmospheric_pressure": null,
+        "constellation": null,
+        "color": "Gray",
+        "description": "",
+        "diametr": "4,880 km",
+        "tilt": "0.034 degrees"
+    },
+    {
+        "key": "venus",
+        "name": ["Венера", "Афродиты"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 108200000,
+        "year_length_days": 225,
+        "day_length_hours": 5832,
+        "atmospheric_pressure": 92,
+        "constellation": null,
+        "color": "yellow",
+        "description": "",
+        "diametr": "12,104 km",
+        "tilt": "177.4 degrees"
+    },
+    {
+        "key": "earth",
+        "name": ["Семля", "Терра", "Уранъ"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 149600000,
+        "year_length_days": 365.25,
+        "day_length_hours": 24,
+        "atmospheric_pressure": 101.3,
+        "constellation": null,
+        "color": "purple",
+        "description": "",
+        "diametr": "12,742 km",
+        "tilt": "23.5 degrees",
+        "moons": [
+            {
+                "name": ["Селена", "Луна"],
+                "distance_km": 384400,
+				"exists": true,
+                "diametr": "3,474.8 km"
+            },
+			{
+                "name": ["Фатта"],
+                "distance_km": null,
+				"exists": false,
+                "diametr": null
+            },
+			{
+                "name": ["Лилитъ"],
+                "distance_km": null,
+				"exists": false,
+                "diametr": null
+            }
+        ]
+    },
+    {
+        "key": "mars",
+        "name": ["Марс", "Арестъ"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 227900000,
+        "year_length_days": 687,
+        "day_length_hours": 24.6,
+        "atmospheric_pressure": 0.6,
+        "constellation": null,
+        "color": "Red",
+        "description": "",
+        "diametr": "6,779 km",
+        "tilt": "25.2 degrees",
+        "moons": [
+            {
+                "name": ["Phobos"],
+                "distance_km": 9376,
+                "exists": true,
+                "diametr": "22.4 km"
+            },
+            {
+                "name": ["Deimos"],
+                "exists": true,
+                "distance_km": 23460,
+                "diametr": "12.4 km"
+            }
+        ]
+    },
+	{
+        "key": "faeton",
+        "name": ["Фаэтонъ", "Индеграха"],
+        "exists": false,
+        "type": "star",
+        "orbits": null,
+        "distance_km": null,
+        "year_length_days": null,
+        "day_length_hours": null,
+        "atmospheric_pressure": null,
+        "constellation": null,
+        "color": "blue",
+        "description": "",
+        "diametr": null,
+        "tilt": null,
+        "moons": [
+        ]
+    },
+    {
+        "key": "jupiter",
+        "name": ["Упитеръ", "Юпитер"],
+        "exists": true,
+        "type": "planet extinct star",
+        "orbits": "Sun",
+        "distance_km": 778600000,
+        "year_length_days": 4333,
+        "day_length_hours": 9.9,
+        "atmospheric_pressure": 0.4,
+        "constellation": null,
+        "color": "Brown",
+        "description": "",
+        "diametr": "139,820 km",
+        "tilt": "3.1 degrees",
+        "moons": [
+            {
+                "name": ["Io"],
+                "exists": true,
+                "distance_km": 421700,
+                "diametr": "3,643.2 km"
+            },
+            {
+                "name": ["Europa"],
+                "exists": true,
+                "distance_km": 670900,
+                "diametr": "3,121.6 km"
+            },
+            {
+                "name": ["Ganymede"],
+                "exists": true,
+                "distance_km": 1070400,
+                "diametr": "5,268.2 km"
+            },
+            {
+                "name": ["Callisto"],
+                "exists": true,
+                "distance_km": 1882700,
+                "diametr": "4,821.6 km"
+            },
+            {
+                "name": ["Спутник1"],
+                "exists": false,
+                "distance_km": 1882700,
+                "diametr": "4,821.6 km"
+            },
+            {
+                "name": ["Спутник2"],
+                "exists": false,
+                "distance_km": 1882700,
+                "diametr": "4,821.6 km"
+            }
+        ]
+    },
+    {
+        "key": "saturn",
+        "name": ["Сатурн"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 1433000000,
+        "year_length_days": 10759,
+        "day_length_hours": 10.7,
+        "atmospheric_pressure": 1.2,
+        "constellation": null,
+        "color": "cyan",
+        "description": "",
+        "diametr": "116,460 km",
+        "tilt": "26.7 degrees",
+        "moons": [
+            {
+                "name": ["Titan"],
+                "exists": true,
+                "distance_km": 1221870,
+                "diametr": "5,151.8 km"
+            }
+        ]
+    },
+    {
+        "key": "uranus",
+        "name": ["Уран"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 2876000000,
+        "year_length_days": 30687,
+        "day_length_hours": 17.2,
+        "atmospheric_pressure": 1.2,
+        "constellation": null,
+        "color": "darkblue",
+        "description": "",
+        "diametr": "50,724 km",
+        "tilt": "97.8 degrees",
+        "moons": [
+            {
+                "name": ["Titania"],
+                "distance_km": 436300,
+                "exists": true,
+                "diametr": "1,578.8 km"
+            }
+        ]
+    },
+    {
+        "key": "neptune",
+        "name": ["Нептун"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 4504000000,
+        "year_length_days": 60190,
+        "day_length_hours": 16.1,
+        "atmospheric_pressure": 1.5,
+        "constellation": null,
+        "color": "green",
+        "description": "",
+        "diametr": "49,244 km",
+        "tilt": "28.3 degrees",
+        "moons": [
+            {
+                "name": ["Triton"],
+                "distance_km": 354760,
+                "exists": true,
+                "diametr": "2,707.6 km"
+            }
+        ]
+    },
+    {
+        "key": "pluto",
+        "name": ["Плутон"],
+        "exists": true,
+        "type": "planet",
+        "orbits": "Sun",
+        "distance_km": 5913000000,
+        "year_length_days": 90560,
+        "day_length_hours": 153.3,
+        "atmospheric_pressure": 0.1,
+        "constellation": null,
+        "color": "brown",
+        "description": "",
+        "diametr": "2,377 km",
+        "tilt": "122.5 degrees",
+        "moons": [
+            {
+                "name": ["Charon"],
+                "distance_km": 19500,
+                "exists": true,
+                "diametr": "1,212 km"
+            }
+        ]
+    },
+    {
+        "key": "halley",
+        "name": ["Комета Галлея"],
+        "exists": true,
+        "type": "comet",
+        "orbits": "Sun",
+        "distance_km": null,
+        "year_length_days": 7590,
+        "day_length_hours": null,
+        "atmospheric_pressure": null,
+        "constellation": null,
+        "color": "indigo",
+        "description": "",
+        "diametr": "11 km",
+        "tilt": null
+    }
+]

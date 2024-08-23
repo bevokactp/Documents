@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"name": "The Iliad",
+		"description": "An ancient Greek epic poem attributed to Homer, set during the Trojan War."
+	},
+	{
+		"id": 2,
+		"name": "The Odyssey",
+		"description": "An ancient Greek epic poem attributed to Homer, detailing the adventures of Odysseus as he returns home from the Trojan War."
+	},
+	{
+		"id": 3,
+		"name": "The Aeneid",
+		"description": "An epic Latin poem by Virgil that tells the legendary story of Aeneas, a Trojan who traveled to Italy and became the ancestor of the Romans."
+	}
+]

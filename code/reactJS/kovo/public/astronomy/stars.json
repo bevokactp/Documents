@@ -1,0 +1,661 @@
+[
+	{
+		"key": "achernar",
+		"names": [
+			"Ашарнар",
+			"Альфа Эридана",
+			"Сухонос",
+			"Голубая Звезда"
+		]
+	},
+	{
+		"key": "aldebaran",
+		"names": [
+			"Альдебаран",
+			"Альфа Тельца",
+			"Глаз Быка",
+			"Золотой Рог"
+		]
+	},
+	{
+		"key": "algol",
+		"names": [
+			"Алголь",
+			"Бета Персея",
+			"Демонская звезда",
+			"Зорница"
+		]
+	},
+	{
+		"key": "alpheratz",
+		"names": [
+			"Альферац",
+			"Альфа Андромеды",
+			"Голова Андромеды",
+			"Звезда Свободы"
+		]
+	},
+	{
+		"key": "altair",
+		"names": [
+			"Альтаир",
+			"Альфа Орла",
+			"Ястреб",
+			"Орел"
+		]
+	},
+	{
+		"key": "antares",
+		"names": [
+			"Антарес",
+			"Сердце Скорпиона",
+			"Калбал-акраб",
+			"Жар-птица"
+		]
+	},
+	{
+		"key": "arcturus",
+		"names": [
+			"Арктур",
+			"Альфа Волопаса",
+			"Хранитель Медведицы",
+			"Страж"
+		]
+	},
+	{
+		"key": "bellatrix",
+		"names": [
+			"Беллатрикс",
+			"Гамма Ориона",
+			"Звезда-воин",
+			"Воина"
+		]
+	},
+	{
+		"key": "betelgeuse",
+		"names": [
+			"Бетельгейзе",
+			"Альфа Ориона",
+			"Красная Звезда",
+			"Светлянка"
+		]
+	},
+	{
+		"key": "canopus",
+		"names": [
+			"Канопус",
+			"Альфа Киля",
+			"Сухейль",
+			"Стожар"
+		]
+	},
+	{
+		"key": "capella",
+		"names": [
+			"Капелла",
+			"Альфа Возничего",
+			"Коза Амальтея",
+			"Козынка"
+		]
+	},
+	{
+		"key": "castor",
+		"names": [
+			"Кастор",
+			"Альфа Близнецов",
+			"Брат",
+			"Близнец"
+		]
+	},
+	{
+		"key": "deneb",
+		"names": [
+			"Денеб",
+			"Альфа Лебедя",
+			"Лебедь",
+			"Лебедушка"
+		]
+	},
+	{
+		"key": "denebola",
+		"names": [
+			"Денебола",
+			"Бета Льва",
+			"Хвост Льва",
+			"Львёнок"
+		]
+	},
+	{
+		"key": "fomalhaut",
+		"names": [
+			"Фомальгаут",
+			"Альфа Южной Рыбы",
+			"Звезда с пастью рыбы",
+			"Рыбница"
+		]
+	},
+	{
+		"key": "gacrux",
+		"names": [
+			"Гакрукс",
+			"Гамма Южного Креста",
+			"Звезда Креста",
+			"Крестец"
+		]
+	},
+	{
+		"key": "hadar",
+		"names": [
+			"Хадар",
+			"Бета Кентавра",
+			"Лошадь",
+			"Конница"
+		]
+	},
+	{
+		"key": "mimosa",
+		"names": [
+			"Мимоза",
+			"Бета Южного Креста",
+			"Крестовик",
+			"Мирослава"
+		]
+	},
+	{
+		"key": "mirach",
+		"names": [
+			"Мирах",
+			"Бета Андромеды",
+			"Пояс Андромеды",
+			"Поясница"
+		]
+	},
+	{
+		"key": "pollux",
+		"names": [
+			"Поллукс",
+			"Бета Близнецов",
+			"Светлячок",
+			"Светлик"
+		]
+	},
+	{
+		"key": "procyon",
+		"names": [
+			"Процион",
+			"Альфа Малого Пса",
+			"Перед-Собака",
+			"Псовая"
+		]
+	},
+	{
+		"key": "regulus",
+		"names": [
+			"Регулус",
+			"Альфа Льва",
+			"Королевская Звезда",
+			"Львица"
+		]
+	},
+	{
+		"key": "rigel",
+		"names": [
+			"Ригель",
+			"Альфа Ориона",
+			"Голубая Звезда",
+			"Синявка"
+		]
+	},
+	{
+		"key": "sirius",
+		"names": [
+			"Сириус",
+			"Альфа Большого Пса",
+			"Звезда Собаки",
+			"Полярная Звезда"
+		]
+	},
+	{
+		"key": "spica",
+		"names": [
+			"Спика",
+			"Альфа Девы",
+			"Колос",
+			"Жатвенница"
+		]
+	},
+	{
+		"key": "vega",
+		"names": [
+			"Вега",
+			"Альфа Лиры",
+			"Харп",
+			"Вежа"
+		]
+	},
+	{
+		"key": "acrux",
+		"names": [
+			"Acrux"
+		],
+		"description": "Acrux — самая яркая звезда в созвездии Южного Креста.",
+		"constellation": "crux"
+	},
+	{
+		"key": "acubens",
+		"names": [
+			"Acubens",
+			"Alpha Columbae"
+		],
+		"description": "Acubens — звезда в созвездии Голубя.",
+		"constellation": "columba"
+	},
+	{
+		"key": "alamak",
+		"names": [
+			"Alamak"
+		],
+		"description": "Alamak — звезда в созвездии Андромеды.",
+		"constellation": "andromeda"
+	},
+	{
+		"key": "albireo",
+		"names": [
+			"Albireo"
+		],
+		"description": "Albireo — известная двойная звезда в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "algenib",
+		"names": [
+			"Algenib"
+		],
+		"description": "Algenib — звезда в созвездии Пегаса.",
+		"constellation": "pegasus"
+	},
+	{
+		"key": "algie",
+		"names": [
+			"Algie"
+		],
+		"description": "Algie — звезда в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "alhena",
+		"names": [
+			"Alhena"
+		],
+		"description": "Alhena — звезда в созвездии Гидры.",
+		"constellation": "hydra"
+	},
+	{
+		"key": "alioth",
+		"names": [
+			"Alioth"
+		],
+		"description": "Alioth — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "alkaid",
+		"names": [
+			"Alkaid"
+		],
+		"description": "Alkaid — звезда в хвосте Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "alrescha",
+		"names": [
+			"Alrescha"
+		],
+		"description": "Alrescha — звезда в созвездии Рыбы.",
+		"constellation": "pisces"
+	},
+	{
+		"key": "arneb",
+		"names": [
+			"Arneb"
+		],
+		"description": "Arneb — яркая звезда в созвездии Зайца.",
+		"constellation": "lepus"
+	},
+	{
+		"key": "becrux",
+		"names": [
+			"Becrux"
+		],
+		"description": "Becrux — звезда в созвездии Южного Креста.",
+		"constellation": "crux"
+	},
+	{
+		"key": "caph",
+		"names": [
+			"Caph"
+		],
+		"description": "Caph — звезда в созвездии Кассиопеи.",
+		"constellation": "cassiopeia"
+	},
+	{
+		"key": "denebalgedi",
+		"names": [
+			"Deneb Algedi"
+		],
+		"description": "Deneb Algedi — звезда в созвездии Козерога.",
+		"constellation": "capricornus"
+	},
+	{
+		"key": "dschubba",
+		"names": [
+			"Dschubba"
+		],
+		"description": "Dschubba — звезда в созвездии Скорпиона.",
+		"constellation": "scorpius"
+	},
+	{
+		"key": "dubhe",
+		"names": [
+			"Dubhe"
+		],
+		"description": "Dubhe — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "elnath",
+		"names": [
+			"Elnath"
+		],
+		"description": "Elnath — звезда в созвездии Тельца.",
+		"constellation": "taurus"
+	},
+	{
+		"key": "epsilon",
+		"names": [
+			"Epsilon"
+		],
+		"description": "Epsilon — общее название для множества звезд в разных созвездиях.",
+		"constellation": "various"
+	},
+	{
+		"key": "hind",
+		"names": [
+			"Hind"
+		],
+		"description": "Hind — звезда в созвездии Зайца.",
+		"constellation": "lepus"
+	},
+	{
+		"key": "hyades",
+		"names": [
+			"Hyades"
+		],
+		"description": "Hyades — скопление звезд в созвездии Тельца.",
+		"constellation": "taurus"
+	},
+	{
+		"key": "kaus",
+		"names": [
+			"Kaus"
+		],
+		"description": "Kaus — звезда в созвездии Стрельца.",
+		"constellation": "sagittarius"
+	},
+	{
+		"key": "lesath",
+		"names": [
+			"Lesath"
+		],
+		"description": "Lesath — звезда в созвездии Скорпиона.",
+		"constellation": "scorpius"
+	},
+	{
+		"key": "markab",
+		"names": [
+			"Markab"
+		],
+		"description": "Markab — звезда в созвездии Пегаса.",
+		"constellation": "pegasus"
+	},
+	{
+		"key": "megrez",
+		"names": [
+			"Megrez"
+		],
+		"description": "Megrez — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "merak",
+		"names": [
+			"Merak"
+		],
+		"description": "Merak — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "mizar",
+		"names": [
+			"Mizar"
+		],
+		"description": "Mizar — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "mizr",
+		"names": [
+			"Mizr"
+		],
+		"description": "Mizr — альтернативное название для Mizar.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "nashira",
+		"names": [
+			"Nashira"
+		],
+		"description": "Nashira — звезда в созвездии Козерога.",
+		"constellation": "capricornus"
+	},
+	{
+		"key": "phact",
+		"names": [
+			"Phact"
+		],
+		"description": "Phact — звезда в созвездии Голубя.",
+		"constellation": "columba"
+	},
+	{
+		"key": "phecda",
+		"names": [
+			"Phecda"
+		],
+		"description": "Phecda — звезда в созвездии Большой Медведицы.",
+		"constellation": "ursa_major"
+	},
+	{
+		"key": "porrima",
+		"names": [
+			"Porrima"
+		],
+		"description": "Porrima — звезда в созвездии Девы.",
+		"constellation": "virgo"
+	},
+	{
+		"key": "rigelkin",
+		"names": [
+			"Rigelkin"
+		],
+		"description": "Rigelkin — звезда в созвездии Зайца.",
+		"constellation": "lepus"
+	},
+	{
+		"key": "rit",
+		"names": [
+			"Rit"
+		],
+		"description": "Rit — также известная как Gienah в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "ruchbah",
+		"names": [
+			"Ruchbah"
+		],
+		"description": "Ruchbah — звезда в созвездии Кассиопеи.",
+		"constellation": "cassiopeia"
+	},
+	{
+		"key": "rukh",
+		"names": [
+			"Rukh"
+		],
+		"description": "Rukh — звезда в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "sadalbari",
+		"names": [
+			"Sadalbari"
+		],
+		"description": "Sadalbari — звезда в созвездии Водолея.",
+		"constellation": "aquarius"
+	},
+	{
+		"key": "sadalmelik",
+		"names": [
+			"Sadalmelik"
+		],
+		"description": "Sadalmelik — звезда в созвездии Водолея.",
+		"constellation": "aquarius"
+	},
+	{
+		"key": "sadalsuud",
+		"names": [
+			"Sadalsuud"
+		],
+		"description": "Sadalsuud — звезда в созвездии Водолея.",
+		"constellation": "aquarius"
+	},
+	{
+		"key": "sadaltager",
+		"names": [
+			"Sadaltager"
+		],
+		"description": "Sadaltager — звезда в созвездии Водолея.",
+		"constellation": "aquarius"
+	},
+	{
+		"key": "sadr",
+		"names": [
+			"Sadr"
+		],
+		"description": "Sadr — звезда в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "saiph",
+		"names": [
+			"Saiph"
+		],
+		"description": "Saiph — звезда в созвездии Ориона.",
+		"constellation": "orion"
+	},
+	{
+		"key": "scheat",
+		"names": [
+			"Scheat"
+		],
+		"description": "Scheat — звезда в созвездии Пегаса.",
+		"constellation": "pegasus"
+	},
+	{
+		"key": "segin",
+		"names": [
+			"Segin"
+		],
+		"description": "Segin — звезда в созвездии Лебедя.",
+		"constellation": "cygnus"
+	},
+	{
+		"key": "shaula",
+		"names": [
+			"Shaula"
+		],
+		"description": "Shaula — звезда в созвездии Скорпиона.",
+		"constellation": "scorpius"
+	},
+	{
+		"key": "shedar",
+		"names": [
+			"Shedar"
+		],
+		"description": "Shedar — звезда в созвездии Кассиопеи.",
+		"constellation": "cassiopeia"
+	},
+	{
+		"key": "tsih",
+		"names": [
+			"Tsih"
+		],
+		"description": "Tsih — звезда в созвездии Овна.",
+		"constellation": "aries"
+	},
+	{
+		"key": "tureis",
+		"names": [
+			"Tureis"
+		],
+		"description": "Tureis — звезда в созвездии Скорпиона.",
+		"constellation": "scorpius"
+	},
+	{
+		"key": "wazn",
+		"names": [
+			"Wazn"
+		],
+		"description": "Wazn — звезда в созвездии Скорпиона.",
+		"constellation": "scorpius"
+	},
+	{
+		"key": "zavijava",
+		"names": [
+			"Zavijava"
+		],
+		"description": "Zavijava — звезда в созвездии Девы.",
+		"constellation": "virgo"
+	},
+	{
+		"key": "zeta",
+		"names": [
+			"Zeta"
+		],
+		"description": "Zeta — общее название для множества звезд в разных созвездиях.",
+		"constellation": "various"
+	},
+	{
+		"key": "zubenelakrab",
+		"names": [
+			"Zubenelakrab"
+		],
+		"description": "Zubenelakrab — звезда в созвездии Весов.",
+		"constellation": "libra"
+	},
+	{
+		"key": "zubenelgenubi",
+		"names": [
+			"Zubenelgenubi"
+		],
+		"description": "Zubenelgenubi — звезда в созвездии Весов.",
+		"constellation": "libra"
+	},
+	{
+		"key": "zubeneschamali",
+		"names": [
+			"Zubeneschamali"
+		],
+		"description": "Zubeneschamali — звезда в созвездии Весов.",
+		"constellation": "libra"
+	}
+]

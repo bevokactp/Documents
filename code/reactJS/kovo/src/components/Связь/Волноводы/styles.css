@@ -1,0 +1,48 @@
+/* Обзоръ.css */
+
+.overview-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.category-section {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.waveguide-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.waveguide-table th,
+.waveguide-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.waveguide-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.waveguide-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.waveguide-table tr:hover {
+    background-color: #eaeaea;
+}

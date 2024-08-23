@@ -1,0 +1,33 @@
+:root {
+	--element-width: 80px; /* Установите желаемый диаметр для всех кругов */
+	--element-height: 80px; /* Установите желаемый диаметр для всех кругов */
+  }
+
+  .pyramid-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+  }
+
+  .level {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	margin-bottom: 40px; /* Расстояние между уровнями */
+  }
+
+  .element-circle {
+	border-radius: 50%; /* Делает элемент кругом */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	line-height: 1.2;
+	padding: 10px;
+	box-sizing: border-box;
+	width: var(--element-width);
+	height: var(--element-height);
+  }

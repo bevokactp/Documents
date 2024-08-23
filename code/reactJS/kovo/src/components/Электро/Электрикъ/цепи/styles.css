@@ -1,0 +1,48 @@
+/* Общие стили для таблицы */
+.chain-system-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+	font-family: Arial, sans-serif;
+  }
+
+  /* Стили для заголовков таблицы */
+  .chain-system-table thead th {
+	background-color: #1b03a3; /* Фоновый цвет заголовков */
+	color: white; /* Цвет текста заголовков */
+	padding: 12px;
+	text-align: left;
+	border: 1px solid #ddd; /* Граница вокруг заголовков */
+	cursor: pointer; /* Курсор при наведении на заголовок */
+  }
+
+  /* Изменение стиля заголовка при сортировке */
+  .chain-system-table thead th.sorted-ascending::after {
+	content: ' ▲'; /* Значок для ascending */
+  }
+
+  .chain-system-table thead th.sorted-descending::after {
+	content: ' ▼'; /* Значок для descending */
+  }
+
+  /* Стили для строк таблицы */
+  .chain-system-table tbody tr:nth-child(even) {
+	background-color: #f2f2f2; /* Цвет фона для четных строк */
+  }
+
+  .chain-system-table tbody tr:nth-child(odd) {
+	background-color: #ffffff; /* Цвет фона для нечетных строк */
+  }
+
+  /* Стили для ячеек таблицы */
+  .chain-system-table td,
+  .chain-system-table th {
+	padding: 12px;
+	text-align: left;
+	border: 1px solid #ddd; /* Граница вокруг ячеек */
+  }
+
+  /* Стили для ячеек таблицы при наведении */
+  .chain-system-table tbody tr:hover {
+	background-color: #e0e0e0; /* Цвет фона при наведении на строку */
+  }

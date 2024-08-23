@@ -1,0 +1,175 @@
+- number: 1
+  nameReal: "Indigo"
+  nameCurrent: "Indigo"
+  r: 75
+  g: 0
+  b: 130
+  a: 1
+
+- number: 2
+  nameReal: "RebeccaPurple"
+  nameCurrent: "Rebecca Purple"
+  r: 102
+  g: 51
+  b: 153
+  a: 1
+
+- number: 3
+  nameReal: "Purple"
+  nameCurrent: "Purple"
+  r: 128
+  g: 0
+  b: 128
+  a: 1
+
+- number: 4
+  nameReal: "BlueViolet"
+  nameCurrent: "Blue Violet"
+  r: 138
+  g: 43
+  b: 226
+  a: 1
+
+- number: 5
+  nameReal: "DarkViolet"
+  nameCurrent: "Dark Violet"
+  r: 148
+  g: 0
+  b: 211
+  a: 1
+
+- number: 6
+  nameReal: "DarkOrchid"
+  nameCurrent: "Dark Orchid"
+  r: 153
+  g: 50
+  b: 204
+  a: 1
+
+- number: 7
+  nameReal: "MediumOrchid"
+  nameCurrent: "Medium Orchid"
+  r: 186
+  g: 85
+  b: 211
+  a: 1
+
+- number: 8
+  nameReal: "SlateBlue"
+  nameCurrent: "Slate Blue"
+  r: 106
+  g: 90
+  b: 205
+  a: 1
+
+- number: 9
+  nameReal: "MediumSlateBlue"
+  nameCurrent: "Medium Slate Blue"
+  r: 123
+  g: 104
+  b: 238
+  a: 1
+
+- number: 10
+  nameReal: "RoyalBlue"
+  nameCurrent: "Royal Blue"
+  r: 65
+  g: 105
+  b: 225
+  a: 1
+
+- number: 11
+  nameReal: "Royal Blue"
+  nameCurrent: "Royal Blue"
+  r: 0
+  g: 0
+  b: 230
+  a: 1
+
+- number: 12
+  nameReal: "Blue"
+  nameCurrent: "Blue"
+  r: 0
+  g: 0
+  b: 255
+  a: 1
+
+- number: 13
+  nameReal: "DodgerBlue"
+  nameCurrent: "Dodger Blue"
+  r: 30
+  g: 144
+  b: 255
+  a: 1
+
+- number: 14
+  nameReal: "DeepSkyBlue"
+  nameCurrent: "Deep Sky Blue"
+  r: 0
+  g: 191
+  b: 255
+  a: 1
+
+- number: 15
+  nameReal: "Royal Blue"
+  nameCurrent: "Royal Blue"
+  r: 26
+  g: 26
+  b: 255
+  a: 1
+
+- number: 16
+  nameReal: "Medium Blue"
+  nameCurrent: "Medium Blue"
+  r: 51
+  g: 51
+  b: 255
+  a: 1
+
+- number: 17
+  nameReal: "Cornflower Blue"
+  nameCurrent: "Cornflower Blue"
+  r: 77
+  g: 77
+  b: 255
+  a: 1
+
+- number: 18
+  nameReal: "Medium Blue"
+  nameCurrent: "Medium Blue"
+  r: 0
+  g: 0
+  b: 204
+  a: 1
+
+- number: 19
+  nameReal: "MediumBlue"
+  nameCurrent: "Medium Blue"
+  r: 0
+  g: 0
+  b: 205
+  a: 1
+
+- number: 20
+  nameReal: "Dark Blue"
+  nameCurrent: "Dark Blue"
+  r: 0
+  g: 0
+  b: 179
+  a: 1
+
+- number: 21
+  nameReal: "Dark Blue"
+  nameCurrent: "Dark Blue"
+  r: 0
+  g: 0
+  b: 153
+  a: 1
+
+- number: 22
+  nameReal: "Navy"
+  nameCurrent: "Navy"
+  r: 0
+  g: 0
+  b: 128
+  a: 1

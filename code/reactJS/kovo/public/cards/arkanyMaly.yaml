@@ -1,0 +1,248 @@
+1 :
+    names:
+      - "прави"
+      - "черви"
+      - "сердца"
+    cards:
+      - rank: 1
+        name: "1"
+        quantity: 1
+        description: ""
+      - rank: 2
+        name: "2"
+        quantity: 1
+        description: ""
+      - rank: 3
+        name: "3"
+        quantity: 1
+        description: ""
+      - rank: 4
+        name: "4"
+        quantity: 1
+        description: ""
+      - rank: 5
+        name: "5"
+        quantity: 1
+        description: ""
+      - rank: 6
+        name: "6"
+        quantity: 1
+        description: ""
+      - rank: 7
+        name: "7"
+        quantity: 1
+        description: ""
+      - rank: 8
+        name: "8"
+        quantity: 1
+        description: ""
+      - rank: 9
+        name: "9"
+        quantity: 1
+        description: ""
+      - rank: 10
+        name: "вольтъ"
+        quantity: 2
+        description: ""
+      - rank: 11
+        name: "дама"
+        quantity: 2
+        description: "дающая мать"
+      - rank: 12
+        name: "королева"
+        quantity: 2
+        description: ""
+      - rank: 13
+        name: "принцъ"
+        quantity: 2
+        description: ""
+      - rank: 14
+        name: "господь"
+        quantity: 1
+        description: ""
+2:
+    names:
+      - "слави"
+      - "бубны"
+      - "ромбы"
+    cards:
+      - rank: 1
+        name: "1"
+        quantity: 1
+        description: ""
+      - rank: 2
+        name: "2"
+        quantity: 1
+        description: ""
+      - rank: 3
+        name: "3"
+        quantity: 1
+        description: ""
+      - rank: 4
+        name: "4"
+        quantity: 1
+        description: ""
+      - rank: 5
+        name: "5"
+        quantity: 1
+        description: ""
+      - rank: 6
+        name: "6"
+        quantity: 1
+        description: ""
+      - rank: 7
+        name: "7"
+        quantity: 1
+        description: ""
+      - rank: 8
+        name: "8"
+        quantity: 1
+        description: ""
+      - rank: 9
+        name: "9"
+        quantity: 1
+        description: ""
+      - rank: 10
+        name: "вольтъ"
+        quantity: 1
+        description: ""
+      - rank: 11
+        name: "дама"
+        quantity: 1
+        description: "дающая мать"
+      - rank: 12
+        name: "королева"
+        quantity: 1
+        description: ""
+      - rank: 13
+        name: "принцъ"
+        quantity: 1
+        description: ""
+      - rank: 14
+        name: "господь"
+        quantity: 1
+        description: ""
+3:
+    names:
+      - "нави"
+      - "трефы"
+      - "крести"
+    cards:
+      - rank: 1
+        name: "1"
+        quantity: 1
+        description: ""
+      - rank: 2
+        name: "2"
+        quantity: 1
+        description: ""
+      - rank: 3
+        name: "3"
+        quantity: 1
+        description: ""
+      - rank: 4
+        name: "4"
+        quantity: 1
+        description: ""
+      - rank: 5
+        name: "5"
+        quantity: 1
+        description: ""
+      - rank: 6
+        name: "6"
+        quantity: 1
+        description: ""
+      - rank: 7
+        name: "7"
+        quantity: 1
+        description: ""
+      - rank: 8
+        name: "8"
+        quantity: 1
+        description: ""
+      - rank: 9
+        name: "9"
+        quantity: 1
+        description: ""
+      - rank: 10
+        name: "вольтъ"
+        quantity: 1
+        description: ""
+      - rank: 11
+        name: "дама"
+        quantity: 1
+        description: "дающая мать"
+      - rank: 12
+        name: "королева"
+        quantity: 1
+        description: ""
+      - rank: 13
+        name: "принцъ"
+        quantity: 1
+        description: ""
+      - rank: 14
+        name: "господь"
+        quantity: 1
+        description: ""
+4:
+    names:
+      - "яви"
+      - "пики"
+      - "копья"
+    cards:
+      - rank: 1
+        name: "1"
+        quantity: 1
+        description: ""
+      - rank: 2
+        name: "2"
+        quantity: 1
+        description: ""
+      - rank: 3
+        name: "3"
+        quantity: 1
+        description: ""
+      - rank: 4
+        name: "4"
+        quantity: 1
+        description: ""
+      - rank: 5
+        name: "5"
+        quantity: 1
+        description: ""
+      - rank: 6
+        name: "6"
+        quantity: 1
+        description: ""
+      - rank: 7
+        name: "7"
+        quantity: 1
+        description: ""
+      - rank: 8
+        name: "8"
+        quantity: 1
+        description: ""
+      - rank: 9
+        name: "9"
+        quantity: 1
+        description: ""
+      - rank: 10
+        name: "вольтъ"
+        quantity: 1
+        description: ""
+      - rank: 11
+        name: "дама"
+        quantity: 1
+        description: "дающая мать"
+      - rank: 12
+        name: "королева"
+        quantity: 1
+        description: ""
+      - rank: 13
+        name: "принцъ"
+        quantity: 1
+        description: ""
+      - rank: 14
+        name: "господь"
+        quantity: 1
+        description: ""

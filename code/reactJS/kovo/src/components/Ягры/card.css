@@ -1,0 +1,42 @@
+.card-display {
+	font-family: Arial, sans-serif;
+  }
+
+  .suits-container {
+	display: flex;
+	flex-wrap: wrap;
+  }
+
+  .suit-section {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	width: calc(50% - 20px); /* Ширина в два столбца с отступами */
+  }
+
+  .cards-table {
+	width: 100%;
+	border-collapse: collapse;
+  }
+
+  .cards-table th, .cards-table td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: center;
+  }
+
+  .rank-low {
+	background-color: #d4a0f4; /* Фиолетовый для 1-9 рангов */
+	color: white;
+  }
+
+  .rank-medium {
+	background-color: #a0c4f4; /* Голубой для оставшихся рангов */
+	color: white;
+  }
+
+  .rank-last {
+	background-color: #0033cc; /* Синий для последнего ранга */
+	color: white;
+  }
