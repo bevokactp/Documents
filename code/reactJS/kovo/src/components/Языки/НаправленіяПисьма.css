@@ -1,0 +1,78 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.text-input {
+  width: 500px;
+  height: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.text-examples {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.example {
+  text-align: center;
+}
+
+.label {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.circle {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid blue; /* Синяя рамка */
+  background: white; /* Белый фон внутри круга */
+}
+
+.left-to-right {
+  writing-mode: horizontal-tb;
+}
+
+.right-to-left {
+  writing-mode: horizontal-tb;
+  transform: rotateY(180deg); /* Зеркальное отражение текста */
+}
+
+.top-to-bottom {
+  writing-mode: vertical-lr;
+}
+
+.bottom-to-top {
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
+
+.diagonal {
+  transform: rotate(45deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-text, .arc-text {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid blue; /* Синяя рамка */
+  background: white; /* Белый фон внутри круга */
+  overflow: hidden;
+}

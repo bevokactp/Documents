@@ -1,8 +1,7 @@
 
 import React from "react";
 
-// import Mu11Da108May from './components/Электро/Электрикъ/1';
-import Mu11Da108May from './components/Светъ/1';
+import Mu11Da108May from './components/Электро/Электрикъ/1';
 
 
 export default function App() {
