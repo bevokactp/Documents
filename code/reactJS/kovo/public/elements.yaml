@@ -1640,7 +1640,7 @@
 
 - number: 42
   nameModern: "Молибден"
-  nameReal: ""
+  nameReal: "Моля бден"
   shortName: "Mo"
   isArtificial: false
   state: "твердый"
@@ -2920,7 +2920,7 @@
 
 - number: 74
   nameModern: "Вольфрам"
-  nameReal: ""
+  nameReal: "Воля Фрам"
   shortName: "W"
   isArtificial: false
   state: "твердый"
