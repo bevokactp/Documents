@@ -1,13 +1,13 @@
 
 import React from "react";
 
-import Mu11Da108May from './components/Электро/Электрикъ/1';
+import Мы11Да8Май from './components/КолоДарь/1';
 
 
 export default function App() {
   return (
     <div>
-      <Mu11Da108May />
+      <Мы11Да8Май />
     </div>
   );
 }

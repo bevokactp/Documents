@@ -1,0 +1,82 @@
+/* Общие стили для таблицы и ячеек */
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+th, td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: center;
+}
+
+th {
+	background-color: #f0f0f0; /* Слегка серый фон для заголовков таблицы */
+}
+
+/* Стили для праздников разного уровня */
+.holiday {
+	font-weight: bold;
+}
+
+.holiday.level-1 {
+	color: #ffd700; /* Золотистый для уровня 1 */
+}
+
+.holiday.level-2 {
+	color: #ff4500; /* Оранжевый для уровня 2 */
+}
+
+.holiday.level-3 {
+	color: #a52a2a; /* Коричневый для уровня 3 */
+}
+
+/* Стили для подсказок */
+.holiday span {
+	cursor: pointer;
+}
+
+.holiday span:hover {
+	text-decoration: underline;
+}
+
+/* Стили для выходных */
+.sobat {
+	background-color: #d3d3d3; /* Серый фон для выходных */
+}
+
+/* Стили для заголовков сезонов и месяцев */
+.season-header, .month-header {
+	color: #000;
+	text-align: center;
+	font-weight: bold;
+}
+
+/* Фон для каждого сезона */
+.season-winter .season-header {
+	background-color: #e0f7fa; /* Голубой для зимы */
+}
+
+.season-spring .season-header {
+	background-color: #e8f5e9; /* Светло-зелёный для весны */
+}
+
+.season-summer .season-header {
+	background-color: #fff9c4; /* Жёлтый для лета */
+}
+
+.season-autumn .season-header {
+	background-color: #ffe0b2; /* Оранжевый для осени */
+}
+
+/* Стили для числа в праздниках */
+.holiday-number {
+	font-weight: bold;
+	color: inherit; /* Наследует цвет от уровня праздника */
+}
+
+.current-day {
+	background-color: #aca; /* Желтый цвет для выделения текущего дня */
+	font-weight: bold;
+  }

@@ -1,12 +1,13 @@
 import React, { useState, useRef, useEffect } from "react";
-import { calculateDateTimeAttributes } from "../Datetime/convert_utils";
-import useStartDateTime from "../Datetime/useStartDateTime";
+import { calculateDateTimeAttributes } from "../КолоДарь/convert_utils";
+import useStartDateTime from "../КолоДарь/useStartDateTime";
 import {
   calculatePresentNameByGrogorian1July,
   calculatePosthumousName,
   calculateSelfNamedName,
   calculateEticdName,
   calculateLanguageName,
+  calculatePresentNameByOld,
 } from "./utils";
 
 
@@ -31,7 +32,7 @@ export default function Names() {
     firstTouchWater: { year: 2015, month: 12, day: 17, hours: 23, minutes: 30 },
     firstMeal: { year: 2000, month: 10, day: 11, hours: 19, minutes: 13 },
     conception: { year: 1910, month: 11, day: 28, hours: 20, minutes: 43 },
-    death: { year: 2023, month: 5, day: 28, hours: 23, minutes: 59 },
+    death: { year: 2100, month: 5, day: 28, hours: 23, minutes: 59 },
   });
 
   const [result, setResult] = useState({});
@@ -57,6 +58,7 @@ export default function Names() {
       results[key] = result;
     });
 
+
     setResult(results);
   };
 
@@ -77,7 +79,6 @@ export default function Names() {
     return `${result[field1]}${separator}${result[field2]}`;
   };
 
-
   return (
     <div>
       <h3>Calculate names</h3>
@@ -85,11 +86,13 @@ export default function Names() {
 
       {Object.keys(result).length > 0 && (
         <div>
-          <h4>Names</h4>
-          <p>Настоящее от 1.07: {calculatePresentNameByGrogorian1July(inputs.birthSelf.year, inputs.birthSelf.month, inputs.birthSelf.day)}</p>
-          <p>Настоящее от 21.07: {} </p>
-          <p>Отчество от 1.07: {calculatePresentNameByGrogorian1July(inputs.birthFather.year, inputs.birthFather.month, inputs.birthFather.day)}</p>
-          <p>Обережество от 1.07: {calculatePresentNameByGrogorian1July(inputs.birthMother.year, inputs.birthMother.month, inputs.birthMother.day)}</p>
+
+          <p>Настоящее Старо: {calculatePresentNameByOld(result.birthSelf.numberYear, result.birthSelf.numberGodWeekday)} !!! нужнен зенит в месте рождения и учёт русалича</p>
+
+          <p>Настоящее Григоріан: {calculatePresentNameByGrogorian1July(inputs.birthSelf.year, inputs.birthSelf.month, inputs.birthSelf.day)}</p>
+          <p>Отчество Григоріан: {calculatePresentNameByGrogorian1July(inputs.birthFather.year, inputs.birthFather.month, inputs.birthFather.day)}</p>
+          <p>Обережество Григоріан: {calculatePresentNameByGrogorian1July(inputs.birthMother.year, inputs.birthMother.month, inputs.birthMother.day)}</p>
+
           <p>Сакральное 1: {getNameComponents(result.firstSight, "number5Minute", "numberHour", "w")}</p>
           <p>Сакральное 2: {getNameComponents(result.firstTouchGround, "number5Minute", "numberHour", "w")}</p>
           <p>Сакральное 3: {getNameComponents(result.firstBreath, "number5Minute", "numberHour", "w")}</p>

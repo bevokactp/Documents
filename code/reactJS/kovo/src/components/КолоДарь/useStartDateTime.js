@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from "react";
 
-const db_file_path = "./data/start_datetime.json";
+const db_file_path = "./dataConfig/startDatetime.json";
 
 export default function useStartDateTime() {
   const [startDateTimeKolodar, setStartDateTimeKolodar] = useState(null);

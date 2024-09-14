@@ -24,24 +24,33 @@ const getNumberMonthFromGregorianToReal1July = (year_number, month_number, day_n
   }
 }
 
-  // (1842, 7, 1) === "1:1"
-  // (1883, 9, 1) === "3:18"
-  // (1962, 7, 1) === "1:1"
-  // (2010, 7, 1) === "1:1"
-  // (1893, 11, 9) === "5:4"
-  // (1928, 5, 25) === "23:15"
-  // (1968, 3, 30) === "9:7"
-  // (1968, 2, 5) === "8:7"
-  // (1975, 3, 30) === "21:14"
-  // (1993, 4, 21) === "22:8"
-  // (1995, 12, 28) === "6:10"
-  // (2045, 8, 29) === "2:12"
-  // (2053, 10, 17) === "16:20"
+// 1995, 12, 28 === "6:10"
+// 1993, 4, 21 === "22:8"
+// 1968, 3, 30 === "9:7"
+// 1968, 2, 5 === "8:7"
+// 1842, 7, 1 === "1:1"
+// 1883, 9, 1 === "3:18"
+// 1962, 7, 1 === "1:1"
+// 2010, 7, 1 === "1:1"
+// 1893, 11, 9 === "5:4"
+// 1928, 5, 25 === "23:15"
+// 1968, 3, 30 === "9:7"
+// 1968, 2, 5 === "8:7"
+// 1975, 3, 30 === "21:14"
+// 1993, 4, 21 === "22:8"
+// 1995, 12, 28 === "6:10"
+// 2045, 8, 29 === "2:12"
+// 2053, 10, 17 === "16:20"
 export const calculatePresentNameByGrogorian1July = (year, month_number, day_number) => {
     const year_number = getNumberYearFromGregorianToReal1July(year);
     const number_month = getNumberMonthFromGregorianToReal1July(year_number, month_number, day_number);
     return `${number_month}o${year_number}`;
   };
+
+
+export const calculatePresentNameByOld = (numberYear, numberGodWeekday) => {
+  return `${numberGodWeekday}о${numberYear}`;
+};
 
 export const calculatePosthumousName = (death) => {
     return `${death.numberMonthYear}+${death.numberDayMonth}`;

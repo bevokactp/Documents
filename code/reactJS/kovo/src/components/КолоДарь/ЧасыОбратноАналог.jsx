@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import { getTime } from './convert_utils';
 
-const db_file_path = './data/start_datetime.json';
+const db_file_path = './dataConfig/startDatetime.json';
 
 export default function ReverseAnalogClock () {
 
