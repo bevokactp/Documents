@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Papa from 'papaparse';
-import { Fraction } from './fraction';
+import { Fraction } from '../Гаяметрія/Соотношенія/fraction';
 
 const FractionsTable = () => {
   const [data, setData] = useState([]);
