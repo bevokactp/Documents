@@ -5,9 +5,11 @@
 			"path": "../Insync/bevokactp@gmail.com/Google Drive/1/pa"
 		},
 		{
+			"name": "Documents",
 			"path": "."
 		},
 		{
+			"name": "Downloads",
 			"path": "../Downloads"
 		}
 	],
