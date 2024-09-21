@@ -12,7 +12,7 @@ IMAGE_FILE = "_temp_image.png"
 MAX_FONT_SIZE = 150
 MIN_FONT_SIZE = 20
 MAX_WIDTH = WIDTH - 100
-FONT_PATH = "./2.ttf"  # Путь к вашему шрифту
+FONT_PATH = "/home/bk/Documents/code/py/мудростьЗаставь/2.ttf"  # Путь к вашему шрифту
 TIME_DELAY = 60
 
 def draw_sacred_geometry(draw):
