@@ -122,7 +122,7 @@ const GodTable = () => {
               return (
                 <tr key={weekIndex}>
                   {daysOfWeekToUse.map((_, dayIndex) => {
-                    const currentDay = weekIndex * daysOfWeekToUse.length + dayIndex + 1;
+                    const currentDay = weekIndex * daysOfWeekToUse.length + dayIndex;
                     const isCurrentMonthDay = (monthIndex + 1 === numberMonthYear) && (currentDay === numberDayMonth);
 
                     if (currentDay > daysInCurrentMonth) return <td key={dayIndex}></td>;
