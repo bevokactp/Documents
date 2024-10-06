@@ -8,12 +8,13 @@ HEIGHT = int(WIDTH / 1.618)
 BACKGROUND_COLOR = (0, 0, 255)  # Синий фон
 TEXT_COLOR = (255, 255, 255)  # Белый текст
 IMAGE_DIR = "."
-IMAGE_FILE = "_temp_image.png"
+IMAGE_FILE = "/home/bk/Documents/code/py/мудростьЗаставь/_temp_image.png"
 MAX_FONT_SIZE = 150
 MIN_FONT_SIZE = 20
 MAX_WIDTH = WIDTH - 100
 FONT_PATH = "/home/bk/Documents/code/py/мудростьЗаставь/2.ttf"  # Путь к вашему шрифту
 TIME_DELAY = 60
+
 
 def draw_sacred_geometry(draw):
     flower_color = (128, 0, 128)  # Фиолетовый цвет
@@ -100,7 +101,7 @@ def set_wallpaper(image_path):
 
 def main():
     with open(
-        "/home/bk/Insync/bevokactp@gmail.com/Google Drive/1/pa/1/мудрости.txt",
+        "/home/bk/Insync/bevokactp@gmail.com/Google Drive/1/pa/1/мудрости",
         "r",
         encoding="utf-8",
     ) as file:
